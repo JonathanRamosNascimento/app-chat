@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1007582969486",
+    "firebase_url": "https://chatonlineflutter-e5272.firebaseio.com",
+    "project_id": "chatonlineflutter-e5272",
+    "storage_bucket": "chatonlineflutter-e5272.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007582969486:android:32df2521c30f400919d3df",
+        "android_client_info": {
+          "package_name": "br.com.ramos.chat_online"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007582969486-pan0hn8notghjs17oekalule3jlr8rhe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_8Oiey_0Y80N0yjWhSDkg8CxnHJs60ok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007582969486-pan0hn8notghjs17oekalule3jlr8rhe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
